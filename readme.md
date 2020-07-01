@@ -1,5 +1,8 @@
 # Patchwork
 
+Check out [the GitHub Pages for my version](https://nicmcphee.github.io/patchwork/) to see the
+congrats message with my name on top. :-)
+
 ![screenshot](https://raw.githubusercontent.com/jlord/patchwork/gh-pages/patchwork-ss.png)
 
 This repository is a website hosted by [GitHub Pages](http://pages.github.com). It goes along with [Git-it](http://www.github.com/jlord/git-it-electron), a desktop application for learning Git and GitHub.
